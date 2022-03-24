@@ -1,0 +1,39 @@
+body {
+    margin: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    margin: 10px;
+}
+
+h1 {
+    color: brown;
+}
+
+h2 {
+    margin-top: 35px;
+    color: blueviolet;
+}
+
+h3 {
+    margin-top: 35px;
+    color: chocolate;
+}
+
+ul>li {
+    margin: 15px;
+    list-style-position: inside;
+}
+
+ol>li {
+    margin: 55px;
+    list-style-position: inside;
+}
+
+img {
+    width: 300px;
+    border-radius: 15px;
+}
+
