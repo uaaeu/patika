@@ -1,0 +1,35 @@
+body {
+    display: block;
+    margin: 8px;
+}
+
+form {
+    margin-top: 0em;
+    margin-block-end: 1em;
+}
+
+.center {
+    text-align: -webkit-center;
+}
+
+img {
+    width: 351px;
+    aspect-ratio: auto 351 / 113;
+    height: 113px;
+}
+
+table {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal;
+}
